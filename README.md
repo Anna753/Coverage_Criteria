@@ -19,7 +19,7 @@ The source code for proposed criteria are provided in [readme.txt](). Follow the
 The 12 agents used to evaluate our approach are provided in [Agents](https://github.com/Anna753/Coverage_Criteria/blob/main/Agents.zip).
 
 # Agent Results
-For each of the 12 agents, the coverage results, test inputs, obtained traces after execution across original and expanded test suites are provided in [Agent_Results](Results).
+For each of the 12 agents, the coverage results, test inputs, obtained traces after execution across original and expanded test suites are provided in [Agent_Results](https://github.com/Anna753/Coverage_Criteria/blob/main/Agent_Results.zip).
 
 # AgentRx Results
 The failure types identified by AgentRx are provided [Results](Results).
