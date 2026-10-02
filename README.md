@@ -13,7 +13,7 @@ This repository contains source code for proposed criteria, benchmark used for e
 ```
 
 # Coverage Criteria
-The source code for proposed criteria are provided in [Coverage](https://github.com/Anna753/Coverage_Criteria/blob/main/Coverage.zip). Follow the instructions to reproduce the results.
+The source code for proposed criteria are provided in [Coverage](https://github.com/Anna753/Coverage_Criteria/tree/main/coverage). Follow the instructions to reproduce the results.
 
 # Agents
 The 12 agents used to evaluate our approach are provided in [Agents](https://github.com/Anna753/Coverage_Criteria/blob/main/Agents.zip).
