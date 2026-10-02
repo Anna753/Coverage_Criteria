@@ -22,5 +22,5 @@ The 12 agents used to evaluate our approach are provided in [Agents](https://git
 For each of the 12 agents, the coverage results, test inputs, obtained traces after execution across original and expanded test suites are provided in [Agent_Results](https://github.com/Anna753/Coverage_Criteria/blob/main/Agent_Results.zip).
 
 # AgentRx Results
-The failure types identified by AgentRx are provided [Results](Results).
+The failure types identified by AgentRx are provided [Results](https://github.com/Anna753/Coverage_Criteria/blob/main/AgentRx_Results.xlsx).
 
