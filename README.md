@@ -16,7 +16,7 @@ This repository contains source code for proposed criteria, benchmark used for e
 The source code for proposed criteria are provided in [readme.txt](). Follow the instructions to reproduce the results.
 
 # Agents
-The 12 agents used to evaluate our approach are provided in [Agents](Agents).
+The 12 agents used to evaluate our approach are provided in [Agents]([Agents](https://github.com/Anna753/Coverage_Criteria/blob/main/Agents.zip)).
 
 # Agent Results
 For each of the 12 agents, the coverage results, test inputs, obtained traces after execution across original and expanded test suites are provided in [Agent_Results](Results).
