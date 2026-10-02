@@ -1,0 +1,17 @@
+
+langchain-community==0.3.24
+langchain==0.3.25
+langchain-core==0.3.64 
+langchain-openai==0.3.21
+sentence-transformers 
+torch
+langchain-experimental==0.3.4
+wikipedia
+youtube-search
+tavily-python
+google-search-results
+duckduckgo-search
+
+
+
+
